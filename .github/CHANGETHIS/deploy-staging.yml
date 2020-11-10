@@ -1,0 +1,3 @@
+name: Staging deployment
+CHANGETHIS to workflows so the title of this file with the path is .github/workflows/deploy-staging.yml
+on: Edit the contents of this file to trigger a job called build on a label
